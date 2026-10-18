@@ -9,7 +9,7 @@
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-## 🌸 About Me
+# **🌸 About Me**
 
 <!-- Edit your bio below -->
 I'm a full-stack developer who builds scalable, user-friendly web applications with the MERN stack, with a focus on clean architecture and a smooth user experience. I'm also exploring AI/ML and agentic AI, and I enjoy integrating LLM-powered features into real-world software. I'm always looking to learn new technologies, contribute to open-source projects, and turn ideas into reliable products.
@@ -18,7 +18,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 - 📍 **Location:** Lahore, Pakistan 🇵🇰
 - 💼 **Current Role:** Student
 
-### 💡 Interests
+## **💡 Interests**
 
 <!-- Add or remove interests here -->
 - 🤖 AI/ML
@@ -31,29 +31,90 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-🛠️ Tech Stack
-<!-- Icons come from the Devicon project (cdn.jsdelivr.net/gh/devicons/devicon). To add one, copy a line and change the icon name, e.g. .../icons/docker/docker-original.svg Browse all icons at https://devicon.dev Hover over an icon on GitHub to see its name. Next.js, Express and GitHub are black logos, so they use a white version in dark mode. -->
-💻 Languages
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="52" height="52"/> </p>
-🎨 Frontend
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"/> </p>
-⚙️ Backend
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"> <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" title="REST APIs" width="52" height="52"/> </p>
-🗄️ Databases
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="52" height="52"/> </p>
-🤖 AI / ML
-<p align="left"> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API" height="40"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" width="52" height="52"/> </picture> </p>
-🧰 Tools & Platforms
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="52" height="52"/> </p>
+# **🛠️ Tech Stack**
+
+<!--
+  Icons come from the Devicon project (cdn.jsdelivr.net/gh/devicons/devicon).
+  To add one, copy a line and change the icon name, e.g. .../icons/docker/docker-original.svg
+  Browse all icons at https://devicon.dev
+  Hover over an icon on GitHub to see its name.
+  Next.js, Express and GitHub are black logos, so they use a white version in dark mode.
+-->
+
+## **💻 Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="52" height="52"/>
+</p>
+
+## **🎨 Frontend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="52" height="52"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="52" height="52"/>
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"/>
+</p>
+
+## **⚙️ Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="52" height="52"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" width="52" height="52"/>
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" title="REST APIs" width="52" height="52"/>
+</p>
+
+## **🗄️ Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="52" height="52"/>
+</p>
+
+## **🤖 AI / ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API" height="40"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" width="52" height="52"/>
+  </picture>
+</p>
+
+## **🧰 Tools & Platforms**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="52" height="52"/>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" width="52" height="52"/>
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="52" height="52"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="52" height="52"/>
+</p>
+
+---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <!--
   Projects are not added yet. To add one, remove the comment markers
   around this section and fill in the details. Copy the block for more projects.
 
-## 🚀 Featured Projects
+# **🚀 Featured Projects**
 
-### 📌 Project Name
+## **📌 Project Name**
 > Short description of what the project does.
 
 - **Tech Stack:** Technology 1, Technology 2, Technology 3
@@ -63,7 +124,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 -->
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+# **📊 GitHub Stats**
 
 <!-- Custom pastel colors. Change any hex code (without #) to adjust the look -->
 <div align="center">
@@ -73,7 +134,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 
 </div>
 
-### 🔥 Streak Stats
+## **🔥 Streak Stats**
 
 <div align="center">
 
@@ -88,7 +149,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
   Achievements and certifications are not added yet. To add them, remove
   the comment markers around this section and edit the list.
 
-## 🏆 Achievements & Certifications
+# **🏆 Achievements & Certifications**
 
 - 🏅 Achievement or certification 1
 - 🏅 Achievement or certification 2
@@ -96,7 +157,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 -->
 
 <!-- ===================== COLLABORATION ===================== -->
-## 🤝 Open to Collaborate On
+# **🤝 Open to Collaborate On**
 
 - 🔓 Open-source projects
 - 💼 Freelance opportunities
@@ -106,7 +167,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 ---
 
 <!-- ===================== CONNECT ===================== -->
-## 📫 Connect With Me
+# **📫 Connect With Me**
 
 <div align="center">
 
