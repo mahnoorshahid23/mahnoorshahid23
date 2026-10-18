@@ -134,14 +134,6 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 
 </div>
 
-### 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahnoorshahid23&background=FDF2F8&border=E8D5F0&stroke=E8D5F0&ring=CDB4DB&fire=F4A0BC&currStreakNum=6B5B7B&sideNums=6B5B7B&currStreakLabel=9D6BB3&sideLabels=9D6BB3&dates=9A8BA8" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
