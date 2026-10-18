@@ -169,9 +169,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 <a href="mailto:mahnoorshahid5775@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FFC8DD?style=for-the-badge&logo=gmail&logoColor=4A4063" alt="Email" />
 </a>
-<a href="https://github.com/mahnoorshahid23" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=4A4063" alt="GitHub" />
-</a>
+
 
 <br/><br/>
 
