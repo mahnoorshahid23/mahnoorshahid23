@@ -31,53 +31,20 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
-
-<!-- Add or remove badges. Browse more at https://shields.io and https://simpleicons.org -->
-<!-- Each group has its own pastel color. Replace the hex code (e.g. F8BBD0) to change it -->
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-F8BBD0?style=for-the-badge&logo=cplusplus&logoColor=4A4063)
-![C#](https://img.shields.io/badge/C%23-F8BBD0?style=for-the-badge&logo=csharp&logoColor=4A4063)
-![Java](https://img.shields.io/badge/Java-F8BBD0?style=for-the-badge&logo=openjdk&logoColor=4A4063)
-![JavaScript](https://img.shields.io/badge/JavaScript-F8BBD0?style=for-the-badge&logo=javascript&logoColor=4A4063)
-![Python](https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=4A4063)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-D1C4E9?style=for-the-badge&logo=react&logoColor=4A4063)
-![Next.js](https://img.shields.io/badge/Next.js-D1C4E9?style=for-the-badge&logo=nextdotjs&logoColor=4A4063)
-![HTML5](https://img.shields.io/badge/HTML5-D1C4E9?style=for-the-badge&logo=html5&logoColor=4A4063)
-![CSS3](https://img.shields.io/badge/CSS3-D1C4E9?style=for-the-badge&logo=css3&logoColor=4A4063)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-D1C4E9?style=for-the-badge&logo=tailwindcss&logoColor=4A4063)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-B3E5FC?style=for-the-badge&logo=nodedotjs&logoColor=4A4063)
-![Express.js](https://img.shields.io/badge/Express.js-B3E5FC?style=for-the-badge&logo=express&logoColor=4A4063)
-![NestJS](https://img.shields.io/badge/NestJS-B3E5FC?style=for-the-badge&logo=nestjs&logoColor=4A4063)
-![FastAPI](https://img.shields.io/badge/FastAPI-B3E5FC?style=for-the-badge&logo=fastapi&logoColor=4A4063)
-![REST API](https://img.shields.io/badge/REST_API-B3E5FC?style=for-the-badge&logo=postman&logoColor=4A4063)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-C8E6C9?style=for-the-badge&logo=mongodb&logoColor=4A4063)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C8E6C9?style=for-the-badge&logo=postgresql&logoColor=4A4063)
-![MySQL](https://img.shields.io/badge/MySQL-C8E6C9?style=for-the-badge&logo=mysql&logoColor=4A4063)
-
-### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI_API-FFE0B2?style=for-the-badge&logo=openai&logoColor=4A4063)
-![LangChain](https://img.shields.io/badge/LangChain-FFE0B2?style=for-the-badge&logo=langchain&logoColor=4A4063)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-FFF9C4?style=for-the-badge&logo=git&logoColor=4A4063)
-![GitHub](https://img.shields.io/badge/GitHub-FFF9C4?style=for-the-badge&logo=github&logoColor=4A4063)
-![VS Code](https://img.shields.io/badge/VS_Code-FFF9C4?style=for-the-badge&logo=visualstudiocode&logoColor=4A4063)
-![Postman](https://img.shields.io/badge/Postman-FFF9C4?style=for-the-badge&logo=postman&logoColor=4A4063)
-![Selenium](https://img.shields.io/badge/Selenium-FFF9C4?style=for-the-badge&logo=selenium&logoColor=4A4063)
-![Figma](https://img.shields.io/badge/Figma-FFF9C4?style=for-the-badge&logo=figma&logoColor=4A4063)
-![Jira](https://img.shields.io/badge/Jira-FFF9C4?style=for-the-badge&logo=jira&logoColor=4A4063)
-![Trello](https://img.shields.io/badge/Trello-FFF9C4?style=for-the-badge&logo=trello&logoColor=4A4063)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-FFF9C4?style=for-the-badge&logo=mongodb&logoColor=4A4063)
-
----
+🛠️ Tech Stack
+<!-- Icons come from the Devicon project (cdn.jsdelivr.net/gh/devicons/devicon). To add one, copy a line and change the icon name, e.g. .../icons/docker/docker-original.svg Browse all icons at https://devicon.dev Hover over an icon on GitHub to see its name. Next.js, Express and GitHub are black logos, so they use a white version in dark mode. -->
+💻 Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="52" height="52"/> </p>
+🎨 Frontend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"/> </p>
+⚙️ Backend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"> <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" title="Express.js" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" title="REST APIs" width="52" height="52"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="52" height="52"/> </p>
+🤖 AI / ML
+<p align="left"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/ffffff"> <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI API" title="OpenAI API" width="52" height="52"/> </picture>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/ffffff"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" title="LangChain" width="52" height="52"/> </picture> </p>
+🧰 Tools & Platforms
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="52" height="52"/>&nbsp;&nbsp; <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"> <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub" width="52" height="52"/> </picture>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="52" height="52"/>&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" title="Trello" width="52" height="52"/> </p>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <!--
