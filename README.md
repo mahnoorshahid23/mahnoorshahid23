@@ -1,8 +1,8 @@
 <!-- ===================== HERO BANNER ===================== -->
-<!-- Change the text in "text=" to edit the banner title -->
+<!-- Theme: purple to pink to coral. Edit the color=0:...,50:...,100:... values to change the gradient -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahnoor%20Shahid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64F59&height=230&section=header&text=Mahnoor%20Shahid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
 
 </div>
 
@@ -37,8 +37,8 @@
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7F00FF?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F64F59?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -54,7 +54,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-C471ED?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -97,10 +97,11 @@
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
+<!-- Theme "radical" matches the purple/pink palette. Other themes: tokyonight, dracula, synthwave, gruvbox -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahnoorshahid23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorshahid23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahnoorshahid23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorshahid23&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
@@ -108,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahnoorshahid23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mahnoorshahid23&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -125,17 +126,6 @@
 - 🏅 Achievement or certification 2
 
 -->
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-## 📚 Currently Learning
-
-<!-- Update this list as you learn new things -->
-- 🤖 AI/ML fundamentals
-- 🧠 Agentic AI
-- 🔗 LangChain and LangGraph
-- 🐳 Docker and deployment
-
----
 
 <!-- ===================== COLLABORATION ===================== -->
 ## 🤝 Open to Collaborate On
@@ -156,16 +146,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:mahnoorshahid5775@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-F64F59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/mahnoorshahid23" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 ⭐ *If you like my work, consider giving my repositories a star!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64F59&height=120&section=footer" alt="Footer banner" width="100%"/>
 
 </div>
