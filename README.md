@@ -12,9 +12,9 @@
 ## 🌸 About Me
 
 <!-- Edit your bio below -->
-👋 I'm **Mahnoor**, a Software Engineering student at the **University of Management and Technology, Lahore**. I build full-stack web applications with the MERN stack and enjoy turning ideas into clean, working products. I'm currently exploring AI/ML to bring intelligent features into the software I build.
+I'm a full-stack developer who builds scalable, user-friendly web applications with the MERN stack, with a focus on clean architecture and a smooth user experience. I'm also exploring AI/ML and agentic AI, and I enjoy integrating LLM-powered features into real-world software. I'm always looking to learn new technologies, contribute to open-source projects, and turn ideas into reliable products.
 
-- 🎓 **Education:** BSSE, University of Management and Technology (UMT)
+- 🎓 **Education:** BSSE
 - 📍 **Location:** Lahore, Pakistan 🇵🇰
 - 💼 **Current Role:** Student
 
