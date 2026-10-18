@@ -18,7 +18,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 - 📍 **Location:** Lahore, Pakistan 🇵🇰
 - 💼 **Current Role:** Student
 
-## **💡 Interests**
+ **💡 Interests**
 
 <!-- Add or remove interests here -->
 - 🤖 AI/ML
@@ -31,7 +31,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-# **🛠️ Tech Stack**
+**🛠️ Tech Stack**
 
 <!--
   Icons come from the Devicon project (cdn.jsdelivr.net/gh/devicons/devicon).
@@ -41,7 +41,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
   Next.js, Express and GitHub are black logos, so they use a white version in dark mode.
 -->
 
-## **💻 Languages**
+**💻 Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="52" height="52"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="52" height="52"/>&nbsp;&nbsp;
@@ -50,7 +50,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="52" height="52"/>
 </p>
 
-## **🎨 Frontend**
+**🎨 Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="52" height="52"/>&nbsp;&nbsp;
   <picture>
@@ -62,7 +62,7 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="52" height="52"/>
 </p>
 
-## **⚙️ Backend**
+**⚙️ Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="52" height="52"/>&nbsp;&nbsp;
   <picture>
@@ -74,14 +74,14 @@ I'm a full-stack developer who builds scalable, user-friendly web applications w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="REST APIs" title="REST APIs" width="52" height="52"/>
 </p>
 
-## **🗄️ Databases**
+**🗄️ Databases**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="52" height="52"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="52" height="52"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="52" height="52"/>
 </p>
 
-## **🤖 AI / ML**
+**🤖 AI / ML**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API" height="40"/>&nbsp;&nbsp;
   <picture>
