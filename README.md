@@ -4,16 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mahnoor%20Shahid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
 
-<!-- Animated typing text: edit the lines= values, separated by ; -->
-<a href="https://github.com/mahnoorshahid23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mahnoor+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Exploring+AI%2FML+%26+Agentic+AI+%F0%9F%A4%96;BSSE+Student+at+UMT%2C+Lahore+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahnoorshahid23&label=Profile+Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/mahnoorshahid23?label=Followers&style=flat&logo=github&color=2c5364)
-
 </div>
 
 ---
