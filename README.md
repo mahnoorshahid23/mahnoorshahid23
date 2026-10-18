@@ -1,15 +1,15 @@
 <!-- ===================== HERO BANNER ===================== -->
-<!-- Theme: purple to pink to coral. Edit the color=0:...,50:...,100:... values to change the gradient -->
+<!-- Pastel theme: pink, lavender, sky blue. Edit color=0:...,50:...,100:... to change the gradient -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64F59&height=230&section=header&text=Mahnoor%20Shahid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=230&section=header&text=Mahnoor%20Shahid&fontSize=52&fontColor=4A4063&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=6B5B7B" alt="Header banner" width="100%"/>
 
 </div>
 
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-## 👩‍💻 About Me
+## 🌸 About Me
 
 <!-- Edit your bio below -->
 👋 I'm **Mahnoor**, a Software Engineering student at the **University of Management and Technology, Lahore**. I build full-stack web applications with the MERN stack and enjoy turning ideas into clean, working products. I'm currently exploring AI/ML to bring intelligent features into the software I build.
@@ -34,47 +34,48 @@
 ## 🛠️ Tech Stack
 
 <!-- Add or remove badges. Browse more at https://shields.io and https://simpleicons.org -->
+<!-- Each group has its own pastel color. Replace the hex code (e.g. F8BBD0) to change it -->
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-7F00FF?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F64F59?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F8BBD0?style=for-the-badge&logo=cplusplus&logoColor=4A4063)
+![C#](https://img.shields.io/badge/C%23-F8BBD0?style=for-the-badge&logo=csharp&logoColor=4A4063)
+![Java](https://img.shields.io/badge/Java-F8BBD0?style=for-the-badge&logo=openjdk&logoColor=4A4063)
+![JavaScript](https://img.shields.io/badge/JavaScript-F8BBD0?style=for-the-badge&logo=javascript&logoColor=4A4063)
+![Python](https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=4A4063)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-D1C4E9?style=for-the-badge&logo=react&logoColor=4A4063)
+![Next.js](https://img.shields.io/badge/Next.js-D1C4E9?style=for-the-badge&logo=nextdotjs&logoColor=4A4063)
+![HTML5](https://img.shields.io/badge/HTML5-D1C4E9?style=for-the-badge&logo=html5&logoColor=4A4063)
+![CSS3](https://img.shields.io/badge/CSS3-D1C4E9?style=for-the-badge&logo=css3&logoColor=4A4063)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-D1C4E9?style=for-the-badge&logo=tailwindcss&logoColor=4A4063)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-C471ED?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-B3E5FC?style=for-the-badge&logo=nodedotjs&logoColor=4A4063)
+![Express.js](https://img.shields.io/badge/Express.js-B3E5FC?style=for-the-badge&logo=express&logoColor=4A4063)
+![NestJS](https://img.shields.io/badge/NestJS-B3E5FC?style=for-the-badge&logo=nestjs&logoColor=4A4063)
+![FastAPI](https://img.shields.io/badge/FastAPI-B3E5FC?style=for-the-badge&logo=fastapi&logoColor=4A4063)
+![REST API](https://img.shields.io/badge/REST_API-B3E5FC?style=for-the-badge&logo=postman&logoColor=4A4063)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-C8E6C9?style=for-the-badge&logo=mongodb&logoColor=4A4063)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C8E6C9?style=for-the-badge&logo=postgresql&logoColor=4A4063)
+![MySQL](https://img.shields.io/badge/MySQL-C8E6C9?style=for-the-badge&logo=mysql&logoColor=4A4063)
 
 ### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-FFE0B2?style=for-the-badge&logo=openai&logoColor=4A4063)
+![LangChain](https://img.shields.io/badge/LangChain-FFE0B2?style=for-the-badge&logo=langchain&logoColor=4A4063)
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFF9C4?style=for-the-badge&logo=git&logoColor=4A4063)
+![GitHub](https://img.shields.io/badge/GitHub-FFF9C4?style=for-the-badge&logo=github&logoColor=4A4063)
+![VS Code](https://img.shields.io/badge/VS_Code-FFF9C4?style=for-the-badge&logo=visualstudiocode&logoColor=4A4063)
+![Postman](https://img.shields.io/badge/Postman-FFF9C4?style=for-the-badge&logo=postman&logoColor=4A4063)
+![Selenium](https://img.shields.io/badge/Selenium-FFF9C4?style=for-the-badge&logo=selenium&logoColor=4A4063)
+![Figma](https://img.shields.io/badge/Figma-FFF9C4?style=for-the-badge&logo=figma&logoColor=4A4063)
+![Jira](https://img.shields.io/badge/Jira-FFF9C4?style=for-the-badge&logo=jira&logoColor=4A4063)
+![Trello](https://img.shields.io/badge/Trello-FFF9C4?style=for-the-badge&logo=trello&logoColor=4A4063)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-FFF9C4?style=for-the-badge&logo=mongodb&logoColor=4A4063)
 
 ---
 
@@ -97,11 +98,11 @@
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
-<!-- Theme "radical" matches the purple/pink palette. Other themes: tokyonight, dracula, synthwave, gruvbox -->
+<!-- Custom pastel colors. Change any hex code (without #) to adjust the look -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahnoorshahid23&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorshahid23&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahnoorshahid23&show_icons=true&count_private=true&bg_color=FDF2F8&title_color=9D6BB3&text_color=6B5B7B&icon_color=F08CAE&border_color=E8D5F0" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoorshahid23&layout=compact&langs_count=8&bg_color=FDF2F8&title_color=9D6BB3&text_color=6B5B7B&border_color=E8D5F0" alt="Most Used Languages" />
 
 </div>
 
@@ -109,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahnoorshahid23&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mahnoorshahid23&background=FDF2F8&border=E8D5F0&stroke=E8D5F0&ring=CDB4DB&fire=F4A0BC&currStreakNum=6B5B7B&sideNums=6B5B7B&currStreakLabel=9D6BB3&sideLabels=9D6BB3&dates=9A8BA8" alt="GitHub Streak" />
 
 </div>
 
@@ -143,19 +144,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mahnoor-shahid-24b464295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=4A4063" alt="LinkedIn" />
 </a>
 <a href="mailto:mahnoorshahid5775@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-F64F59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-FFC8DD?style=for-the-badge&logo=gmail&logoColor=4A4063" alt="Email" />
 </a>
 <a href="https://github.com/mahnoorshahid23" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=4A4063" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 ⭐ *If you like my work, consider giving my repositories a star!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:C471ED,100:F64F59&height=120&section=footer" alt="Footer banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:CDB4DB,100:A2D2FF&height=120&section=footer" alt="Footer banner" width="100%"/>
 
 </div>
